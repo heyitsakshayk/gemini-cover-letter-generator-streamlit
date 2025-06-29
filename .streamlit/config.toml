@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#4CAF50"  # Custom green color
+backgroundColor = "#1c1c1e"
+secondaryBackgroundColor = "#2c2c2e"
+textColor = "#FAFAFA"
+font = "sans serif"
