@@ -27,7 +27,7 @@ The app is built using **Streamlit**, making it fast and interactive with a clea
 
 ## 🖥️ Demo Screenshot
 
-![App Screenshot](https://user-images.githubusercontent.com/your-screenshot-path/cover-letter-streamlit.png)
+![App Screenshot](https://github.com/heyitsakshayk/gemini-cover-letter-generator-streamlit/blob/main/images/demo1.png)
 
 ---
 
